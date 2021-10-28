@@ -1,0 +1,60 @@
+: 1631887232:0;ls
+: 1631887235:0;vim test.py
+: 1631887282:0;ls
+: 1631887284:0;rm test.py
+: 1631887285:0;ls
+: 1631887290:0;vim bfs.py
+: 1631887348:0;python bfs.py
+: 1631887354:0;vim bfs.py
+: 1631887382:0;python bfs.py
+: 1631887386:0;vim bfs.py
+: 1631887407:0;python bfs.py
+: 1631887456:0;vim bfs.py
+: 1631887740:0;clear
+: 1631887744:0;python bfs.py
+: 1631887747:0;vim bfs.py
+: 1631887812:0;python bfs.py
+: 1631887833:0;vim bfs.py
+: 1631888297:0;python bfs.py
+: 1631888332:0;vim bfs.py
+: 1631888417:0;python
+: 1631888441:0;clear
+: 1631888442:0;vim bfs.py
+: 1631888738:0;python bfs.py
+: 1631888743:0;vim bfs.py
+: 1631888773:0;python bfs.py
+: 1631888778:0;vim bfs.py
+: 1631899134:0;python bfs.py
+: 1631899137:0;vim bfs.py
+: 1631899172:0;python bfs.py
+: 1631921265:0;vim bfs.py
+: 1632007212:0;ls
+: 1632007214:0;vim bfs.py
+: 1632007251:0;clear
+: 1632226261:0;ls
+: 1632226265:0;vim recursion.py
+: 1632226533:0;ls
+: 1632226540:0;subl recursion.py
+: 1632226716:0;vim recursion.py
+: 1632226720:0;python recursion.py
+: 1632227763:0;clear
+: 1632227765:0;ls
+: 1632227768:0;python recursion.py
+: 1632228483:0;clear
+: 1632228600:0;python recursion.py
+: 1632229888:0;cd ~
+: 1632230065:0;python recursion.py
+: 1632231577:0;clear
+: 1632244230:0;ls
+: 1632244233:0;vim recursion.py
+: 1632261550:0;ls
+: 1632261553:0;python recursion.py
+: 1632314656:0;clear
+: 1632314656:0;ls
+: 1632314661:0;vim test.js
+: 1632314689:0;node test.js
+: 1632314769:0;node -v
+: 1632314774:0;node --version
+: 1632487356:0;clear
+: 1632487357:0;ls
+: 1632487359:0;cd ..

@@ -48,20 +48,24 @@ c.right = f
 
 def minNumberOfOperations(k):
     queue = [1]
+    seen_values = set()
     min_num_of_operations = 0
 
     while queue:
         result = queue.pop(0)
         if result == k:
             return min_num_of_operations
+        elif result == 0:
+            continue
+        elif result in seen_values: 
+            continue
         else:
             min_num_of_operations += 1
             queue.append(result * 2)
             queue.append(result // 3)
+        seen_values.add(result)
 
     return min_num_of_operations
 
 print(minNumberOfOperations(10))
-print(minNumberOfOperations(20))
-print(minNumberOfOperations(200))
 
