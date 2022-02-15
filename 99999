@@ -18,3 +18,66 @@
 : 1633539307:0;clear
 : 1633539307:0;ls
 : 1633539309:0;cd ..
+: 1635451133:0;ls
+: 1635451136:0;cd bfs
+: 1635451153:0;ls
+: 1635451171:0;ls binary-tree
+: 1635451174:0;cd binary-tree
+: 1643048236:0;ls
+: 1643048237:0;clear
+: 1643048242:0;git origin
+: 1643048279:0;git remote -v origin
+: 1643048282:0;cd ..
+: 1643048332:0;ls
+: 1643048332:0;clear
+: 1643048337:0;git config --get remote.origin.url\
+
+: 1643048341:0;ls
+: 1643048347:0;cd sort
+: 1643048437:0;ls
+: 1643048440:0;cd ..
+: 1644774246:0;vim test.py
+: 1644774301:0;python test.py
+: 1644774318:0;vim test.py
+: 1644774372:0;rm test.py
+: 1644774608:0;vim test.py
+: 1644774656:0;python test.py
+: 1644774664:0;vim test.py
+: 1644834187:0;ls
+: 1644834188:0;rm test.py
+: 1644834193:0;clear
+: 1644835809:0;python
+: 1644835867:0;clear
+: 1644835892:0;vim test.py
+: 1644835991:0;python test.py
+: 1644836000:0;clear
+: 1644836002:0;rm test.py
+: 1644837705:0;python
+: 1644837813:0;clear
+: 1644926857:0;python
+: 1644927104:0;vim test.py
+: 1644927201:0;python test.py
+: 1644927214:0;vim test.py
+: 1644927303:0;python 
+: 1644927471:0;clear
+: 1644938256:0;ls
+: 1644938265:0;cd ../..
+: 1644947799:0;ls
+: 1644947805:0;ls test.py
+: 1644947807:0;cat test.py
+: 1644947811:0;rm test.py
+: 1644947816:0;ls sort
+: 1644947828:0;cat sort/cyclic_sort.py
+: 1644947860:0;clear
+: 1644947861:0;ls
+: 1644947873:0;mkdir algorithms data_structures
+: 1644947874:0;ls
+: 1644947878:0;ls bfs
+: 1644947886:0;ls binary-tree
+: 1644947892:0;cd binary-tree
+: 1644947910:0;ls
+: 1644947927:0;mv bfs algorithms
+: 1644947934:0;mv binary-tree data_structures
+: 1644947938:0;mv sort algorithms
+: 1644947939:0;ls
+: 1644947941:0;cd algorithms
