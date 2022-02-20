@@ -81,3 +81,50 @@
 : 1644947938:0;mv sort algorithms
 : 1644947939:0;ls
 : 1644947941:0;cd algorithms
+: 1644951564:0;ls
+: 1644951565:0;cd ..
+: 1645315777:0;ls
+: 1645315781:0;cd data_structures
+: 1645315844:0;ls
+: 1645315860:0;git remote show origin
+: 1645315949:0;git remote add origin https://github.com/Mogbeyi/algorithm-implementations.git
+: 1645315957:0;git push
+: 1645315965:0;git push -u origin main
+: 1645315984:0;git push origin master
+: 1645315989:0;clear
+: 1645315989:0;ls
+: 1645315995:0;cd data_structures
+: 1645316017:0;ls
+: 1645316028:0;git diff
+: 1645316169:0;git remote show origin
+: 1645316212:0;ls
+: 1645316214:0;git remote add origin https://github.com/Mogbeyi/algorithm-implementations.git
+: 1645316227:0;git branch
+: 1645316241:0;git branch -M main
+: 1645316248:0;git push
+: 1645316259:0;git push -u origin main
+: 1645316275:0;git push
+: 1645316278:0;clear
+: 1645316302:0;ls
+: 1645316322:0;ls -a
+: 1645316325:0;cd .git
+: 1645316488:0;clear
+: 1645316489:0;ls
+: 1645316494:0;cd data_structures
+: 1645316532:0;ls
+: 1645316533:0;ls -a
+: 1645316537:0;cd .git
+: 1645316559:0;ls
+: 1645316561:0;cd ..
+: 1645316616:0;ls
+: 1645316621:0;git remote  show origin
+: 1645316623:0;ls
+: 1645316629:0;git log --oneline
+: 1645316689:0;ls
+: 1645316698:0;git remote add origin https://github.com/Mogbeyi/algorithm-implementations.git
+: 1645316705:0;git branch -M main
+: 1645316712:0;git push -u origin main
+: 1645316733:0;ls
+: 1645316750:0;ls algorithms
+: 1645316768:0;ls data_structures
+: 1645316778:0;cd data_structures

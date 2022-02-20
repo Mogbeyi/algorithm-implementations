@@ -18,3 +18,8 @@
 : 1645316828:0;ls
 : 1645316832:0;mkdir heaps
 : 1645316836:0;git add .
+: 1645316847:0;git commit -m "make heap directory"
+: 1645316851:0;git push
+: 1645316872:0;clear
+: 1645316874:0;ls
+: 1645316877:0;cd heaps
