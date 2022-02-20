@@ -1,0 +1,20 @@
+: 1645315782:0;ls
+: 1645315792:0;git show origin
+: 1645315807:0;history | grep show
+: 1645315816:0;git remote show origin
+: 1645315819:0;clear
+: 1645315820:0;ls
+: 1645315829:0;ls binary-tree
+: 1645315834:0;git log --oneline
+: 1645315843:0;cd ..
+: 1645315995:0;ls
+: 1645316017:0;cd ..
+: 1645316495:0;ls
+: 1645316502:0;ls binary-tree
+: 1645316526:0;ls
+: 1645316528:0;ls -a
+: 1645316530:0;cd ..
+: 1645316785:0;git remote show origin
+: 1645316828:0;ls
+: 1645316832:0;mkdir heaps
+: 1645316836:0;git add .
