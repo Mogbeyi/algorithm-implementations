@@ -1,0 +1,14 @@
+: 1647714840:0;ls
+: 1647714851:0;touch sum_linked_list.py
+: 1647714853:0;vim sum_linked_list.py
+: 1647714954:0;ls
+: 1647714957:0;vim linked_list.py
+: 1647715124:0;python sum_linked_list.py
+: 1647715140:0;vim sum_linked_list.py
+: 1647715192:0;vim linked_list.py
+: 1647715198:0;vim sum_linked_list.py
+: 1647715228:0;python sum_linked_list.py
+: 1647715231:0;vim sum_linked_list.py
+: 1647715339:0;python sum_linked_list.py
+: 1647715349:0;clear
+: 1647715353:0;git add .
