@@ -36,3 +36,32 @@
 : 1647693510:0;git checkout master
 : 1647693522:0;git diff
 : 1647693526:0;git add .
+: 1647693534:0;git commit -m "Make minor changes"
+: 1647693535:0;clear
+: 1647693542:0;git checkout master
+: 1647693548:0;git push
+: 1647693552:0;clear
+: 1647693561:0;git remote show origin
+: 1647693568:0;clear
+: 1647693568:0;ls
+: 1647707598:0;vim linked_list.py
+: 1647707873:0;python linked_list.py
+: 1647707879:0;vim linked_list.py
+: 1647707917:0;python linked_list.py
+: 1647707921:0;vim linked_list.py
+: 1647708028:0;python linked_list.py
+: 1647708037:0;vim linked_list.py
+: 1647708049:0;python linked_list.py
+: 1647708061:0;vim linked_list.py
+: 1647708132:0;python linked_list.py
+: 1647708138:0;vim linked_list.py
+: 1647708709:0;python linked_list.py
+: 1647708718:0;vim linked_list.py
+: 1647708792:0;python linked_list.py
+: 1647708794:0;clear
+: 1647708797:0;vim linked_list.py
+: 1647708811:0;python linked_list.py
+: 1647708819:0;vim linked_list.py
+: 1647709009:0;python linked_list.py
+: 1647709014:0;vim linked_list.py
+: 1647714196:0;git add .
