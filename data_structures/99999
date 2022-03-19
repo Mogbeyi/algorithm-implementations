@@ -23,3 +23,16 @@
 : 1645316872:0;clear
 : 1645316874:0;ls
 : 1645316877:0;cd heaps
+: 1645317459:0;s
+: 1645317461:0;ls
+: 1645317571:0;cd ../..
+: 1647693446:0;ls
+: 1647693449:0;cd heaps
+: 1647693461:0;ls
+: 1647693471:0;git show origin
+: 1647693482:0;git show remote origin
+: 1647693488:0;git log --oneline
+: 1647693499:0;git branch
+: 1647693510:0;git checkout master
+: 1647693522:0;git diff
+: 1647693526:0;git add .
