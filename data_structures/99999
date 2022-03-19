@@ -65,3 +65,9 @@
 : 1647709009:0;python linked_list.py
 : 1647709014:0;vim linked_list.py
 : 1647714196:0;git add .
+: 1647714213:0;git commit -m "Print values in a linked list"
+: 1647714215:0;git push
+: 1647714273:0;vim linked_list.py
+: 1647714709:0;python linked_list.py
+: 1647714712:0;vim linked_list.py
+: 1647714748:0;git commit -am "Solve linked list values problem"

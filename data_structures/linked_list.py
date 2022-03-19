@@ -30,7 +30,15 @@ def print_linked_list_recursive(head):
     print(head.value)
     return print_linked_list_recursive(head.next)
 
-# print(print_linked_list(a))
+def linked_list_values(head):
+    values = []
+    fill_values(head, values)
+    return values
 
-print_linked_list_recursive(a)
+def fill_values(head, values):
+    if head == None:
+        return
+    values.append(head.value)
+    return fill_values(head.next, values)
 
+print(linked_list_values(a))
