@@ -12,3 +12,14 @@
 : 1647715339:0;python sum_linked_list.py
 : 1647715349:0;clear
 : 1647715353:0;git add .
+: 1647715370:0;git commit -m "Solve linked list sum problem"
+: 1647715371:0;git push
+: 1647727931:0;ls
+: 1647727945:0;touch find_target.py
+: 1647727951:0;subl find_target.py
+: 1647727967:0;subl sum_linked_list.py
+: 1647728185:0;python find_target.py
+: 1647728288:0;vim linked_list.py
+: 1647728372:0;clear
+: 1647728374:0;python find_target.py
+: 1647729668:0;git add .
