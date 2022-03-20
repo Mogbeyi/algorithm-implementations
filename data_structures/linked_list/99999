@@ -23,3 +23,15 @@
 : 1647728372:0;clear
 : 1647728374:0;python find_target.py
 : 1647729668:0;git add .
+: 1647729677:0;git commit -m "Solve find target problem"
+: 1647729678:0;git push
+: 1647729682:0;clear
+: 1647729726:0;ls
+: 1647729738:0;vim get_index.py
+: 1647729743:0;subl get_index.py
+: 1647729907:0;python get_index.py
+: 1647730338:0;touch reverse_linked_list.py
+: 1647736263:0;ls
+: 1647736268:0;subl reverse_linked_list.py
+: 1647789455:0;ls
+: 1647789458:0;git add .
