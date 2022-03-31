@@ -118,3 +118,22 @@
 : 1648728105:0;git log
 : 1648728112:0;git log --oneline
 : 1648728154:0;git add .
+: 1648728168:0;git log
+: 1648728192:0;git commit -m "Check if values exist using dfs"
+: 1648728194:0;git push
+: 1648728199:0;clear
+: 1648730170:0;git status -s
+: 1648730175:0;ls
+: 1648730180:0;clear
+: 1648730185:0;git log --oneline
+: 1648730202:0;git diff
+: 1648730236:0;ls
+: 1648730251:0;vim binary_tree.py
+: 1648730291:0;ls
+: 1648730402:0;vim binary_tree.py
+: 1648730566:0;ls
+: 1648730572:0;touch treesum.py
+: 1648730575:0;subl treesum.py
+: 1648730724:0;python treesum.py
+: 1648730889:0;git commit
+: 1648730896:0;git add .

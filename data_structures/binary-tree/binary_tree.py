@@ -18,5 +18,21 @@ b.left = d
 b.right = e
 c.right = f
 
+g = Node(3)
+h = Node(11)
+i = Node(4)
+j = Node(4)
+k = Node(2)
+l = Node(1)
+
+g.left = h
+g.right = i
+h.left = j
+h.right = k
+i.right = l
+
 def get_root():
 	return a
+
+def get_number_root():
+    return g
