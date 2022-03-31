@@ -87,3 +87,26 @@
 : 1648687427:0;ls
 : 1648687433:0;git status -s
 : 1648687449:0;git add .
+: 1648687467:0;git commit -m "Implement dfs recursively"
+: 1648687472:0;git push --force
+: 1648717946:0;clear
+: 1648718171:0;ls
+: 1648718189:0;touch bfs.py
+: 1648718195:0;subl bfs.py
+: 1648718599:0;python bfs.py
+: 1648719293:0;ls
+: 1648719294:0;cd ..
+: 1648719388:0;ls
+: 1648719390:0;clear
+: 1648719391:0;ls
+: 1648719394:0;python dfs.py
+: 1648719403:0;python bfs.py
+: 1648719405:0;vim dfs.py
+: 1648719485:0;python bfs.py
+: 1648721719:0;clear
+: 1648721720:0;ls
+: 1648721728:0;touch includes.py
+: 1648721730:0;subl includes.py
+: 1648722192:0;python includes.py
+: 1648722293:0;ls
+: 1648722296:0;git add .
