@@ -149,3 +149,10 @@
 : 1648733532:0;git status -s
 : 1648733539:0;git log --oneline
 : 1648733546:0;git add .
+: 1648733567:0;git commit -m "Get minimum value in a tree using bfs"
+: 1648733569:0;git push
+: 1648734887:0;python tree_min_value.py
+: 1648734908:0;clear
+: 1648734915:0;python tree_min_value.py
+: 1648735011:0;git log --oneline
+: 1648735023:0;git add .

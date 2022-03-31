@@ -17,14 +17,13 @@ def get_min_value(root):
 	return min_value
 
 def get_min_value(root):
-	if not root.value:
-		return 0
-	if root.left.value < root.right.value:
-		return root.left.value
-	if root.right.value > root.left.value:
-		return root.right.value
+	if not root:
+		return float('inf')
+	left = get_min_value(root.left)
+	right = get_min_value(root.right)
 
-	
+	return min(root.value, left, right)
+
 
 
 
