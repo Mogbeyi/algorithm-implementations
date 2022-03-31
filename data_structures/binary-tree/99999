@@ -137,3 +137,15 @@
 : 1648730724:0;python treesum.py
 : 1648730889:0;git commit
 : 1648730896:0;git add .
+: 1648730899:0;git commit
+: 1648730925:0;git push
+: 1648731235:0;clear
+: 1648731652:0;touch tree_min_value.py
+: 1648731657:0;subl tree_min_value.py
+: 1648731959:0;python tree
+: 1648731962:0;python tree_min_value.py
+: 1648732277:0;python 
+: 1648732283:0;clear
+: 1648733532:0;git status -s
+: 1648733539:0;git log --oneline
+: 1648733546:0;git add .

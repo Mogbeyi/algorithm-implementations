@@ -23,7 +23,7 @@ h = Node(11)
 i = Node(4)
 j = Node(4)
 k = Node(2)
-l = Node(1)
+l = Node(3)
 
 g.left = h
 g.right = i
