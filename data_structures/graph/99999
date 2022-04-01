@@ -58,3 +58,12 @@
 : 1648822522:0;subl largest_component.py
 : 1648829782:0;python largest_component.py
 : 1648829787:0;git add .
+: 1648829807:0;git commit -m "Implement largest component graph with dfs"
+: 1648829810:0;git push
+: 1648829828:0;clear
+: 1648829829:0;ls
+: 1648829838:0;touch shortest_path.py
+: 1648829840:0;subl shortest_path.py
+: 1648830148:0;python shortest_path.py
+: 1648831170:0;git -am "Solve shortest path problem with bfs"
+: 1648831177:0;git commit -am "Solve shortest path problem with bfs"
