@@ -16,3 +16,5 @@
 : 1648773274:0;clear
 : 1648773310:0;python graph.py
 : 1648773383:0;git commit -am "Implement dfs recursively"
+: 1648773665:0;python graph.py
+: 1648773720:0;git commit -am "Implement bfs"

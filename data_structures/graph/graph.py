@@ -27,4 +27,16 @@ def depth_first_print(graph, source):
 	for neighbour in graph[source]:
 		depth_first_print(graph, neighbour)
 
-depth_first_print(graph, 'a')
+def breath_first_print(graph, source):
+	queue = deque()
+	queue.append(source)
+
+	while queue:
+		current = queue.popleft()
+		print(current)
+
+		for neighbour in graph[current]:
+			queue.append(neighbour)
+
+# depth_first_print(graph, 'a')
+breath_first_print(graph, 'a')
