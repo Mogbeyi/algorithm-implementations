@@ -25,3 +25,6 @@
 : 1648774503:0;subl has_path.py
 : 1648774652:0;python has_path.py
 : 1648774754:0;git commit -am "solve has path with dfs"
+: 1648774889:0;python has_path.py
+: 1648775187:0;git log --oneline
+: 1648775204:0;git commit -am "Solve has path with bfs"
