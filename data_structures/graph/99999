@@ -37,3 +37,13 @@
 : 1648805144:0;clear
 : 1648809670:0;python undirected_path.py
 : 1648809680:0;git add .
+: 1648809694:0;git commit -m "Solve undirected path using dfs"
+: 1648810150:0;ls
+: 1648810158:0;touch connected_component.py
+: 1648810161:0;subl connected_component.py
+: 1648821188:0;python
+: 1648821227:0;clear
+: 1648822161:0;ls
+: 1648822164:0;pyton connected_component.py
+: 1648822167:0;python connected_component.py
+: 1648822340:0;git add .
