@@ -156,3 +156,8 @@
 : 1648734915:0;python tree_min_value.py
 : 1648735011:0;git log --oneline
 : 1648735023:0;git add .
+: 1648735035:0;git commit -m "Get minimum value in a tree using dfs"
+: 1648735036:0;git push
+: 1648735041:0;clear
+: 1648759737:0;ls
+: 1648759740:0;cd ..

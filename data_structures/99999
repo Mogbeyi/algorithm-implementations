@@ -71,3 +71,13 @@
 : 1647714709:0;python linked_list.py
 : 1647714712:0;vim linked_list.py
 : 1647714748:0;git commit -am "Solve linked list values problem"
+: 1648719295:0;ls
+: 1648719298:0;cd ..
+: 1648719384:0;ls
+: 1648719387:0;cd binary-tree
+: 1648759740:0;ls
+: 1648759744:0;mkdir graphs
+: 1648759747:0;ls
+: 1648759749:0;cd graphs
+: 1648772511:0;mv graphs graph
+: 1648772514:0;cd graph

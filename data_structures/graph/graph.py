@@ -9,15 +9,22 @@ graph = {
 	'f': []
 }
 
+# def depth_first_print(graph, source):
+# 	stack = deque()
+# 	stack.append(source)
+
+# 	while stack:
+# 		current = stack.pop()
+# 		print(current)
+
+# 		for neighbour in graph[current]:
+# 			stack.append(neighbour)
+
+
 def depth_first_print(graph, source):
-	stack = deque()
-	stack.append(source)
+	print(source)
 
-	while stack:
-		current = stack.pop()
-		print(current)
-
-		for neighbour in graph[current]:
-			stack.append(neighbour)
+	for neighbour in graph[source]:
+		depth_first_print(graph, neighbour)
 
 depth_first_print(graph, 'a')
