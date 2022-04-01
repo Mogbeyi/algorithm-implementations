@@ -47,3 +47,14 @@
 : 1648822164:0;pyton connected_component.py
 : 1648822167:0;python connected_component.py
 : 1648822340:0;git add .
+: 1648822354:0;git commit -m "Count number of connected component in a graph"
+: 1648822356:0;git push
+: 1648822362:0;clear
+: 1648822407:0;ls
+: 1648822415:0;touch largest_component.py
+: 1648822417:0;ls
+: 1648822418:0;clear
+: 1648822419:0;ls
+: 1648822522:0;subl largest_component.py
+: 1648829782:0;python largest_component.py
+: 1648829787:0;git add .

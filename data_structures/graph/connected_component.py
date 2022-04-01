@@ -28,3 +28,4 @@ def explore(graph, current, visited):
 	return True
 
 print(connected_component_count(graph))
+  
