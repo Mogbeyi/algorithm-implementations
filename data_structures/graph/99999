@@ -18,3 +18,10 @@
 : 1648773383:0;git commit -am "Implement dfs recursively"
 : 1648773665:0;python graph.py
 : 1648773720:0;git commit -am "Implement bfs"
+: 1648774271:0;ls
+: 1648774276:0;touch has_path.py
+: 1648774277:0;clear
+: 1648774501:0;ls
+: 1648774503:0;subl has_path.py
+: 1648774652:0;python has_path.py
+: 1648774754:0;git commit -am "solve has path with dfs"
