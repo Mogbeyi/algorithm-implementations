@@ -28,3 +28,12 @@
 : 1648774889:0;python has_path.py
 : 1648775187:0;git log --oneline
 : 1648775204:0;git commit -am "Solve has path with bfs"
+: 1648800954:0;ls
+: 1648800956:0;clear
+: 1648801334:0;touch undirected_path.py
+: 1648801336:0;subl undirected_path.py
+: 1648801770:0;python undirected_path.py
+: 1648805122:0;python
+: 1648805144:0;clear
+: 1648809670:0;python undirected_path.py
+: 1648809680:0;git add .
