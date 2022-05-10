@@ -70,3 +70,42 @@
 : 1648831181:0;git push
 : 1648831293:0;python shortest_path.py
 : 1648831529:0;git commit -am "Add visited set to avoid loop in graph"
+: 1648832461:0;python
+: 1648832489:0;clear
+: 1648833846:0;ls
+: 1648833849:0;cd ../..
+: 1649063574:0;ls
+: 1649063578:0;vim connected_component.py
+: 1649063585:0;ls
+: 1649063589:0;vim largest_component.py
+: 1649063598:0;ls
+: 1649063601:0;vim undirected_path.py
+: 1649065990:0;clear
+: 1649255435:0;ls
+: 1649255439:0;cd .../..
+: 1649255441:0;cd ../..
+: 1650065465:0;ls
+: 1650065468:0;vim shortest_path.py
+: 1650065489:0;python shortest_path.py
+: 1650065491:0;vim shortest_path.py
+: 1650065562:0;git reflog
+: 1650065565:0;clear
+: 1650065566:0;ls
+: 1650065570:0;git reflog
+: 1650303327:0;brew install --cask clean-me\
+
+: 1650303760:0;brew install vitorgalvao/tiny-scripts/cask-repair\
+
+: 1650303881:0;cask-repair clean-me\
+
+: 1650303912:0;cask-repair
+: 1650303916:0;clean-me
+: 1650303921:0;cask-repair clean-me\
+
+: 1650311691:0;clear
+: 1650311694:0;mysql
+: 1650311699:0;mysql -v
+: 1650311709:0;sudo mysql
+: 1650311724:0;clear
+: 1650320058:0;ls
+: 1650320061:0;cd ../..
